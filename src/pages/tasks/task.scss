@@ -1,0 +1,17 @@
+#gridContainer {
+  height: calc(100vh - 200px);
+}
+
+.filter_group {
+  display: flex;
+  align-items: center;
+  padding: 5px 15px;
+}
+
+.checkbox_anabar {
+  margin-left: 15px;
+  margin-right: 15px;
+  .dx-checkbox-text {
+    padding-left: 10px;
+  }
+}
