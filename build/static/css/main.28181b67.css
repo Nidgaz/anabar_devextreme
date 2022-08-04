@@ -155,7 +155,7 @@ It is no longer required.
   font-family: DXIcons;
   font-style: normal;
   font-weight: 400;
-  src: local("DevExtreme Generic Icons"), local("devextreme_generic_icons"), url(../static/media/dxicons.8070d7e69c5185a654a5.woff2) format("woff2"), url(../static/media/dxicons.ba538823bce315b65132.woff) format("woff"), url(../static/media/dxicons.64631931e34b7af4eacb.ttf) format("truetype")
+  src: local("DevExtreme Generic Icons"), local("devextreme_generic_icons"), url(./static/media/dxicons.8070d7e69c5185a654a5.woff2) format("woff2"), url(./static/media/dxicons.ba538823bce315b65132.woff) format("woff"), url(./static/media/dxicons.64631931e34b7af4eacb.ttf) format("truetype")
 }
 
 .dx-icon-add {
@@ -24473,35 +24473,34 @@ input.dx-hidden {
   font-family: RobotoFallback;
   font-style: normal;
   font-weight: 300;
-  src: local("Roboto Light"), local("Roboto-Light"), url(../static/media/Roboto-300.c27d89ac77468ae18f28.woff2) format("woff2"), url(../static/media/Roboto-300.d923dfafc0c5183b59aa.woff) format("woff"), url(../static/media/Roboto-300.ce61b8b68994802f2e55.ttf) format("truetype")
+  src: local("Roboto Light"), local("Roboto-Light"), url(./static/media/Roboto-300.c27d89ac77468ae18f28.woff2) format("woff2"), url(./static/media/Roboto-300.d923dfafc0c5183b59aa.woff) format("woff"), url(./static/media/Roboto-300.ce61b8b68994802f2e55.ttf) format("truetype")
 }
 
 @font-face {
   font-family: RobotoFallback;
   font-style: normal;
   font-weight: 400;
-  src: local("Roboto"), local("Roboto-Regular"), url(../static/media/Roboto-400.64cfb66c866ea50cad47.woff2) format("woff2"), url(../static/media/Roboto-400.e02e9d6ff5547f7e9962.woff) format("woff"), url(../static/media/Roboto-400.6bede58e856278b0f8f1.ttf) format("truetype")
+  src: local("Roboto"), local("Roboto-Regular"), url(./static/media/Roboto-400.64cfb66c866ea50cad47.woff2) format("woff2"), url(./static/media/Roboto-400.e02e9d6ff5547f7e9962.woff) format("woff"), url(./static/media/Roboto-400.6bede58e856278b0f8f1.ttf) format("truetype")
 }
 
 @font-face {
   font-family: RobotoFallback;
   font-style: normal;
   font-weight: 500;
-  src: local("Roboto Medium"), local("Roboto-Medium"), url(../static/media/Roboto-500.1d3bced88509b0838984.woff2) format("woff2"), url(../static/media/Roboto-500.092c6130df8fd2199888.woff) format("woff"), url(../static/media/Roboto-500.0fcd45fbfc419c42c8b9.ttf) format("truetype")
+  src: local("Roboto Medium"), local("Roboto-Medium"), url(./static/media/Roboto-500.1d3bced88509b0838984.woff2) format("woff2"), url(./static/media/Roboto-500.092c6130df8fd2199888.woff) format("woff"), url(./static/media/Roboto-500.0fcd45fbfc419c42c8b9.ttf) format("truetype")
 }
 
 @font-face {
   font-family: RobotoFallback;
   font-style: normal;
   font-weight: 700;
-  src: local("Roboto Bold"), local("Roboto-Bold"), url(../static/media/Roboto-700.92fbd4e93cf0a5dbebaa.woff2) format("woff2"), url(../static/media/Roboto-700.73288d91c325e82a5b92.woff) format("woff"), url(../static/media/Roboto-700.17451a4c1cd55e33ac57.ttf) format("truetype")
-}
-
+  src: local("Roboto Bold"), local("Roboto-Bold"), url(./static/media/Roboto-700.92fbd4e93cf0a5dbebaa.woff2) format("woff2"), url(./static/media/Roboto-700.73288d91c325e82a5b92.woff) format("woff"), url(./static/media/Roboto-700.17451a4c1cd55e33ac57.ttf) format("truetype")
+ы
 @font-face {
   font-family: DXIcons;
   font-style: normal;
   font-weight: 400;
-  src: local("DevExtreme Material Icons"), local("devextreme_material_icons"), url(../static/media/dxiconsmaterial.541c43cbca85a845fb4a.woff2) format("woff2"), url(../static/media/dxiconsmaterial.21d46d1134cacf06a7da.woff) format("woff"), url(../static/media/dxiconsmaterial.985c286b55e966d6d268.ttf) format("truetype")
+  src: local("DevExtreme Material Icons"), local("devextreme_material_icons"), url(./static/media/dxiconsmaterial.541c43cbca85a845fb4a.woff2) format("woff2"), url(./static/media/dxiconsmaterial.21d46d1134cacf06a7da.woff) format("woff"), url(./static/media/dxiconsmaterial.985c286b55e966d6d268.ttf) format("truetype")
 }
 
 .dx-swatch-additional .dx-validationsummary-item {
